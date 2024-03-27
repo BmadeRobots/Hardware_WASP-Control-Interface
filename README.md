@@ -29,3 +29,6 @@ Push button (encoder) | 5
 Encoder DT | 3
 Encoder CLK | 2
 Kuka IO | 13
+
+## Wiring Diagram Reference
+https://www.makerguides.com/tb6600-stepper-motor-driver-arduino-tutorial/
